@@ -1,5 +1,7 @@
 # Classes em Java
 
+![image](https://github.com/user-attachments/assets/d9b529c5-2b91-4868-8d77-ef6ba9587e9f)
+
 # Atividade
   - Criar uma classe com atributos, construtores, get, set e métodos próprios.
   - Testar a classe criada e instanciar objetos, chamando os métodos implementados.
@@ -31,3 +33,5 @@
   - Utilizar IDEs com geradores de Getters e Setters pode ser útil ao definir Gets e Sets mais rapidamente.
   - Levei um tempo para entender como funcionavam as chamadas e os retornos das funções com relação aos métodos. As demais chamadas foram bem parecidas com C.
   - Tudo no Java são classes (prints, strings, etc.).
+
+![image](https://github.com/user-attachments/assets/46854727-1cf7-47a8-83dd-165fe11acb02)
